@@ -1,0 +1,234 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+}
+/* main styles */
+
+.main {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 0 auto;
+}
+.main-content {
+  background-color: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  padding: 40px 90px 105px 40px;
+}
+
+/*about slyless*/
+.projects {
+  padding-top: 10px;
+  padding-left: 50px;
+
+  padding-right: 30px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.about {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 25px;
+  margin-left: 50px;
+  padding-top: 0px;
+}
+.about-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 17px;
+  color: #00000;
+}
+.about-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #00000;
+  argin-bottom: 25px;
+}
+.about-text {
+  color: #fb6d3a;
+  margin-bottom: 20px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 24px;
+  width: 400px;
+}
+.progects {
+  margin-bottom: 30px;
+}
+.title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+.project-list {
+  padding: 0;
+  margin-left: 15px;
+}
+.project-text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.project,
+.project-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.project-braket {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.project-link {
+  margin-left: 0px;
+}
+.project-list {
+  margin-left: 13px;
+}
+/* work styless */
+.work {
+  padding-top: 10px;
+  padding-left: 50px;
+
+  padding-right: 30px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.work-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.work-list {
+  padding: 0;
+  margin-left: 16px;
+}
+.work-list-item {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+}
+.line {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.company-text,
+.educaton-text {
+  color: #fb6d3a;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+/* education styles */
+.education {
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 30px;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.facultet {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+/* siderbar styles */
+.siderbar {
+  background-color: #1e2939;
+  padding-top: 40px;
+  width: 370px;
+}
+.photo {
+  width: 370px;
+  margin-bottom: 50px;
+}
+.contacts,
+.tech-skills,
+.soft-skills,
+.Language {
+  margin-left: 40px;
+}
+.contacts {
+  margin-bottom: 50px;
+}
+.siderbar-title {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 10px;
+}
+.contact-style {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 5px;
+}
+.contact-link {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ebeff4;
+}
+.tech-skills-list,
+.soft-skills-list,
+.Language-list {
+  color: #ffffff;
+  padding: 0;
+  margin-left: 20px;
+}
+.tech-skills-item,
+.soft-skills-item,
+.Language-item {
+  color: #fb6d3a;
+}
+.tech-skills-text,
+.soft-skills-text,
+.Language-text {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
