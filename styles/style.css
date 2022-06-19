@@ -41,15 +41,13 @@ body {
   font-weight: bold;
   font-size: 22px;
   line-height: 17px;
-  color: #00000;
 }
 .about-name {
   font-style: normal;
   font-weight: bold;
   font-size: 45px;
   line-height: 55px;
-  color: #00000;
-  argin-bottom: 25px;
+  margin-bottom: 25px;
 }
 .about-text {
   color: #fb6d3a;
